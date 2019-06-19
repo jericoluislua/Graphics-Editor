@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fe39544f-7d24-4c52-b425-c6cc6d3bac41" name="Default Changelist" comment="" />
+    <list default="true" id="fe39544f-7d24-4c52-b425-c6cc6d3bac41" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Grafikeditor/META-INF/Grafikeditor.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Grafikeditor/ZeichnungTestMitMock.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Grafikeditor/ZeichnungTestMitMock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FigurParserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FigurParserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kreis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kreis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Linie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Linie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Rechteck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rechteck.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,21 +27,64 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ZeichnungTestMitMock.java">
+        <entry file="file://$PROJECT_DIR$/src/FigurParserTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="17" column="41" lean-forward="true" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+            <state relative-caret-position="408">
+              <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FigurParserTest.java">
+        <entry file="file://$PROJECT_DIR$/src/FigurDAOStub.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
-              <caret line="23" column="46" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="46" />
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Rechteck.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="41" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#520#521#0" expanded="true" />
+                <element signature="e#600#601#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Kreis.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="72" selection-start-line="19" selection-start-column="72" selection-end-line="19" selection-end-column="72" />
+              <folding>
+                <element signature="e#416#417#0" expanded="true" />
+                <element signature="e#491#492#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Linie.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <element signature="e#259#260#0" expanded="true" />
+                <element signature="e#288#289#0" expanded="true" />
+                <element signature="e#388#389#0" expanded="true" />
+                <element signature="e#456#457#0" expanded="true" />
+                <element signature="e#502#503#0" expanded="true" />
+                <element signature="e#580#581#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -78,12 +130,14 @@
       <replace />
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/RechteckRund.java" />
         <option value="$PROJECT_DIR$/src/Bogen.java" />
-        <option value="$PROJECT_DIR$/src/Linie.java" />
         <option value="$PROJECT_DIR$/src/Display.java" />
         <option value="$PROJECT_DIR$/src/FigurLoader.java" />
         <option value="$PROJECT_DIR$/src/FigurSaver.java" />
@@ -91,7 +145,6 @@
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/Figur.java" />
         <option value="$PROJECT_DIR$/txtfiles/test.txt" />
-        <option value="$PROJECT_DIR$/src/Rechteck.java" />
         <option value="$PROJECT_DIR$/src/Grafikeditor.java" />
         <option value="$PROJECT_DIR$/src/EditorFrame.java" />
         <option value="$PROJECT_DIR$/src/EditorControl.java" />
@@ -101,18 +154,20 @@
         <option value="$PROJECT_DIR$/src/FigurDAOStub.java" />
         <option value="$PROJECT_DIR$/src/FigurDAO.java" />
         <option value="$PROJECT_DIR$/src/ConcreteGraphics.java" />
-        <option value="$PROJECT_DIR$/src/Kreis.java" />
         <option value="$PROJECT_DIR$/src/KreisTest.java" />
         <option value="$PROJECT_DIR$/src/GraphicsStub.java" />
-        <option value="$PROJECT_DIR$/src/FigurParserTest.java" />
         <option value="$PROJECT_DIR$/src/FigurFileDAO.java" />
         <option value="$PROJECT_DIR$/src/KreisTestMitMock.java" />
         <option value="$PROJECT_DIR$/src/FigurTestMitMock.java" />
         <option value="$PROJECT_DIR$/src/ZeichnungTestMitMock.java" />
+        <option value="$PROJECT_DIR$/src/Rechteck.java" />
+        <option value="$PROJECT_DIR$/src/Kreis.java" />
+        <option value="$PROJECT_DIR$/src/Linie.java" />
+        <option value="$PROJECT_DIR$/src/FigurParserTest.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="119" />
     <option name="y" value="116" />
     <option name="width" value="720" />
@@ -124,27 +179,23 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Grafikeditor" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Grafikeditor" type="462c0819:PsiDirectoryNode" />
+              <item name="Graphics-Editor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Graphics-Editor" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Grafikeditor" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Grafikeditor" type="462c0819:PsiDirectoryNode" />
+              <item name="Graphics-Editor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Graphics-Editor" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Grafikeditor" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -152,13 +203,14 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553164164395" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/mockito-all-1.10.19.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -190,12 +242,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ZeichnungTestMitMock.zeichneFiguren">
+  <component name="RunManager" selected="JUnit.FigurParserTest">
     <configuration name="FigurParserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Grafikeditor" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="FigurParserTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FigurParserTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Grafikeditor" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FigurParserTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -206,15 +268,6 @@
       <option name="MAIN_CLASS_NAME" value="FigurTestMitMock" />
       <option name="METHOD_NAME" value="testZeichne" />
       <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="KreisTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Grafikeditor" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="KreisTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -241,11 +294,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FigurParserTest" />
+        <item itemvalue="JUnit.FigurParserTest.test" />
         <item itemvalue="JUnit.ZeichnungTestMitMock.zeichneFiguren" />
         <item itemvalue="JUnit.FigurTestMitMock.testZeichne" />
-        <item itemvalue="JUnit.FigurParserTest" />
         <item itemvalue="JUnit.KreisTest.testZeichne" />
-        <item itemvalue="JUnit.KreisTest" />
       </list>
     </recent_temporary>
   </component>
@@ -289,28 +342,11 @@
       <workItem from="1560494356533" duration="7430000" />
       <workItem from="1560700515512" duration="13580000" />
       <workItem from="1560763802292" duration="11315000" />
+      <workItem from="1560972378274" duration="1495000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="KreisTestMitMock_testZeichne - 2019.06.19 at 20h 26m 11s.xml">
-      <configuration name="KreisTestMitMock.testZeichne" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FigurTestMitMock_testZeichne - 2019.06.19 at 21h 13m 44s.xml">
-      <configuration name="FigurTestMitMock.testZeichne" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FigurTestMitMock_testZeichne - 2019.06.19 at 21h 14m 41s.xml">
-      <configuration name="FigurTestMitMock.testZeichne" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ZeichnungTestMitMock_zeichneFiguren - 2019.06.19 at 21h 21m 23s.xml">
-      <configuration name="ZeichnungTestMitMock.zeichneFiguren" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ZeichnungTestMitMock_zeichneFiguren - 2019.06.19 at 21h 21m 36s.xml">
-      <configuration name="ZeichnungTestMitMock.zeichneFiguren" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ZeichnungTestMitMock_zeichneFiguren - 2019.06.19 at 21h 21m 49s.xml">
-      <configuration name="ZeichnungTestMitMock.zeichneFiguren" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ZeichnungTestMitMock_zeichneFiguren - 2019.06.19 at 21h 22m 27s.xml">
       <configuration name="ZeichnungTestMitMock.zeichneFiguren" configurationId="JUnit" />
     </history-entry>
@@ -323,9 +359,27 @@
     <history-entry file="ZeichnungTestMitMock_zeichneFiguren - 2019.06.19 at 21h 23m 31s.xml">
       <configuration name="ZeichnungTestMitMock.zeichneFiguren" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ZeichnungTestMitMock_zeichneFiguren - 2019.06.19 at 21h 27m 02s.xml">
+      <configuration name="ZeichnungTestMitMock.zeichneFiguren" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FigurParserTest_test - 2019.06.19 at 22h 41m 06s.xml">
+      <configuration name="FigurParserTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FigurParserTest_test - 2019.06.19 at 22h 41m 38s.xml">
+      <configuration name="FigurParserTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FigurParserTest_test - 2019.06.19 at 22h 53m 43s.xml">
+      <configuration name="FigurParserTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FigurParserTest - 2019.06.19 at 22h 54m 22s.xml">
+      <configuration name="FigurParserTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FigurParserTest - 2019.06.19 at 22h 54m 34s.xml">
+      <configuration name="FigurParserTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109114000" />
+    <option name="totallyTimeSpent" value="110609000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -338,9 +392,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="974" height="944" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25273523" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18818381" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -349,7 +402,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3292978" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3489519" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3489519" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39327297" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -360,7 +413,6 @@
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32305795" />
-      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32995737" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -370,6 +422,7 @@
       <window_info anchor="right" id="Maven" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32995737" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -589,19 +642,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Linie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#259#260#0" expanded="true" />
-            <element signature="e#288#289#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-            <element signature="e#456#457#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Vector.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="158">
@@ -678,13 +718,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FigurDAOStub.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/FigurDAO.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -696,26 +729,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-170">
           <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FigurParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="17" column="49" lean-forward="true" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#217#218#0" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
-            <element signature="e#400#407#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Kreis.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -740,13 +753,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GraphicsStub.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Display.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -759,16 +765,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FigurTestMitMock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FigurTestMitMock.java" />
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="575">
@@ -801,27 +798,84 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZeichnungTestMitMock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GraphicsStub.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Rechteck.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="374">
+          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="41" />
+          <folding>
+            <element signature="e#520#521#0" expanded="true" />
+            <element signature="e#600#601#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Kreis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="72" selection-start-line="19" selection-start-column="72" selection-end-line="19" selection-end-column="72" />
+          <folding>
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#491#492#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Linie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FigurParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#400#407#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FigurDAOStub.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FigurParserTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="23" column="46" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="46" />
+        <state relative-caret-position="408">
+          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ZeichnungTestMitMock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="17" column="41" lean-forward="true" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
         </state>
       </provider>
     </entry>

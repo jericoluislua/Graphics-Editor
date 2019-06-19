@@ -19,4 +19,9 @@ public class Linie extends Figur{
     public void zeichne(Graphics g) {
         g.drawLine(getX(), getY(), getsPunkt(), getePunkt());
     }
+
+    @Override
+    public String toString() {
+        return "Linie, " + x + ", " + y + ", " + sPunkt + ", " + ePunkt;
+    }
 }

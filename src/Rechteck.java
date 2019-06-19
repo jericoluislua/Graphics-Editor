@@ -21,4 +21,9 @@ public class Rechteck extends Figur{
 
     @Override
     public void zeichne(Graphics g) {  g.drawRect(getX(), getY(), getBreite(), getHoehe()); }
+
+    @Override
+    public String toString() {
+        return "Rechteck, " + x + ", " + y + ", " + breite + ", " + hoehe;
+    }
 }

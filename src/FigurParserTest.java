@@ -20,8 +20,8 @@ public class FigurParserTest {
     public void test(){
         Vector<Figur> figuren = fp.parse();
         assertEquals(3, figuren.size());
-        assertEquals(new Rechteck(100, 5, 500, 125), figuren.get(0).toString());
-        //assertEquals("Linie, 10, 120, 100, 1", figuren.get(1).toString());
-        //assertEquals("Kreis, 610, 5, 250", figuren.get(2).toString());
+        assertEquals("Rechteck, 10, 10, 200, 200", figuren.get(0).toString());
+        assertEquals("Linie, 10, 120, 100, 1", figuren.get(1).toString());
+        assertEquals("Kreis, 610, 5, 250, 250", figuren.get(2).toString());
     }
 }

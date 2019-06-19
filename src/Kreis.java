@@ -13,4 +13,10 @@ public class Kreis extends Figur{
     @Override
     public void zeichne(Graphics g) { g.fillOval(getX(), getY(), getRadius(), getRadius()); }
         //g.setColor(Color.BLUE);
+
+
+    @Override
+    public String toString() {
+        return "Kreis, " + x + ", " + y + ", " + radius + ", " + radius;
+    }
 }
