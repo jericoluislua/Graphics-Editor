@@ -3,7 +3,6 @@ import org.junit.Test;
 import java.awt.*;
 import java.util.Vector;
 
-import static org.junit.Assert.*;
 import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.verify;
 

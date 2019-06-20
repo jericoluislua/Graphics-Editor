@@ -8,6 +8,7 @@ import java.util.Vector;
 import static junit.framework.TestCase.assertEquals;
 
 public class KreisTest {
+    //graphics abstract
     private GraphicsStub g = new GraphicsStub();
 
     @Test

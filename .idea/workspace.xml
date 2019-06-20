@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe39544f-7d24-4c52-b425-c6cc6d3bac41" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Grafikeditor/META-INF/Grafikeditor.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Grafikeditor/ZeichnungTestMitMock.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Grafikeditor/ZeichnungTestMitMock.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FigurParserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FigurParserTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Kreis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kreis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Linie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Linie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Rechteck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rechteck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KreisTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KreisTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ZeichnungTestMitMock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZeichnungTestMitMock.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,10 +21,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/FigurParserTest.java">
+        <entry file="file://$PROJECT_DIR$/src/KreisTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+            <state relative-caret-position="136">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -39,62 +33,48 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FigurDAOStub.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Rechteck.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="41" />
-              <folding>
-                <element signature="e#520#521#0" expanded="true" />
-                <element signature="e#600#601#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Kreis.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="72" selection-start-line="19" selection-start-column="72" selection-end-line="19" selection-end-column="72" />
-              <folding>
-                <element signature="e#416#417#0" expanded="true" />
-                <element signature="e#491#492#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Linie.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-              <folding>
-                <element signature="e#259#260#0" expanded="true" />
-                <element signature="e#288#289#0" expanded="true" />
-                <element signature="e#388#389#0" expanded="true" />
-                <element signature="e#456#457#0" expanded="true" />
-                <element signature="e#502#503#0" expanded="true" />
-                <element signature="e#580#581#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GraphicsStub.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+            <state relative-caret-position="187">
+              <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ConcreteGraphics.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="17" selection-start-column="17" selection-end-column="17" />
+              <folding>
+                <element signature="e#195#196#0" expanded="true" />
+                <element signature="e#222#223#0" expanded="true" />
+                <element signature="e#331#332#0" expanded="true" />
+                <element signature="e#358#359#0" expanded="true" />
+                <element signature="e#575#576#0" expanded="true" />
+                <element signature="e#602#603#0" expanded="true" />
+                <element signature="e#724#725#0" expanded="true" />
+                <element signature="e#751#752#0" expanded="true" />
+                <element signature="e#805#806#0" expanded="true" />
+                <element signature="e#832#833#0" expanded="true" />
+                <element signature="e#1047#1048#0" expanded="true" />
+                <element signature="e#1074#1075#0" expanded="true" />
+                <element signature="e#2693#2694#0" expanded="true" />
+                <element signature="e#2721#2722#0" expanded="true" />
+                <element signature="e#2839#2840#0" expanded="true" />
+                <element signature="e#2867#2868#0" expanded="true" />
+                <element signature="e#2977#2978#0" expanded="true" />
+                <element signature="e#3005#3006#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ZeichnungTestMitMock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="7" selection-start-column="7" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -154,16 +134,16 @@
         <option value="$PROJECT_DIR$/src/FigurDAOStub.java" />
         <option value="$PROJECT_DIR$/src/FigurDAO.java" />
         <option value="$PROJECT_DIR$/src/ConcreteGraphics.java" />
-        <option value="$PROJECT_DIR$/src/KreisTest.java" />
-        <option value="$PROJECT_DIR$/src/GraphicsStub.java" />
         <option value="$PROJECT_DIR$/src/FigurFileDAO.java" />
         <option value="$PROJECT_DIR$/src/KreisTestMitMock.java" />
         <option value="$PROJECT_DIR$/src/FigurTestMitMock.java" />
-        <option value="$PROJECT_DIR$/src/ZeichnungTestMitMock.java" />
         <option value="$PROJECT_DIR$/src/Rechteck.java" />
         <option value="$PROJECT_DIR$/src/Kreis.java" />
         <option value="$PROJECT_DIR$/src/Linie.java" />
         <option value="$PROJECT_DIR$/src/FigurParserTest.java" />
+        <option value="$PROJECT_DIR$/src/GraphicsStub.java" />
+        <option value="$PROJECT_DIR$/src/KreisTest.java" />
+        <option value="$PROJECT_DIR$/src/ZeichnungTestMitMock.java" />
       </list>
     </option>
   </component>
@@ -242,7 +222,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.FigurParserTest">
+  <component name="RunManager" selected="JUnit.ZeichnungTestMitMock.zeichneFiguren">
     <configuration name="FigurParserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Grafikeditor" />
       <option name="PACKAGE_NAME" value="" />
@@ -272,12 +252,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KreisTest.testZeichne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="KreisTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Grafikeditor" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="KreisTest" />
-      <option name="METHOD_NAME" value="testZeichne" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -294,11 +273,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ZeichnungTestMitMock.zeichneFiguren" />
+        <item itemvalue="JUnit.KreisTest" />
         <item itemvalue="JUnit.FigurParserTest" />
         <item itemvalue="JUnit.FigurParserTest.test" />
-        <item itemvalue="JUnit.ZeichnungTestMitMock.zeichneFiguren" />
         <item itemvalue="JUnit.FigurTestMitMock.testZeichne" />
-        <item itemvalue="JUnit.KreisTest.testZeichne" />
       </list>
     </recent_temporary>
   </component>
@@ -343,13 +322,11 @@
       <workItem from="1560700515512" duration="13580000" />
       <workItem from="1560763802292" duration="11315000" />
       <workItem from="1560972378274" duration="1495000" />
+      <workItem from="1561018003061" duration="2689000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ZeichnungTestMitMock_zeichneFiguren - 2019.06.19 at 21h 22m 27s.xml">
-      <configuration name="ZeichnungTestMitMock.zeichneFiguren" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ZeichnungTestMitMock_zeichneFiguren - 2019.06.19 at 21h 22m 37s.xml">
       <configuration name="ZeichnungTestMitMock.zeichneFiguren" configurationId="JUnit" />
     </history-entry>
@@ -377,9 +354,12 @@
     <history-entry file="FigurParserTest - 2019.06.19 at 22h 54m 34s.xml">
       <configuration name="FigurParserTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="FigurParserTest - 2019.06.20 at 11h 07m 03s.xml">
+      <configuration name="FigurParserTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110609000" />
+    <option name="totallyTimeSpent" value="113298000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -391,9 +371,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="974" height="944" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="959" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18818381" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19029851" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -402,7 +383,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3292978" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3489519" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34866828" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39327297" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -450,7 +431,6 @@
     <SUITE FILE_PATH="coverage/Grafikeditor$KreisTest_testZeichne.ic" NAME="KreisTest.testZeichne Coverage Results" MODIFIED="1560958393630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/txtfiles/6.txt" />
     <entry file="file://$PROJECT_DIR$/txtfiles/6_1.txt" />
     <entry file="file://$PROJECT_DIR$/src/FigurSaver.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -649,13 +629,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/awt/Graphics.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="605" column="25" selection-start-line="605" selection-start-column="25" selection-end-line="605" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/EditorPanel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="426">
@@ -690,48 +663,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ConcreteGraphics.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#195#196#0" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-            <element signature="e#331#332#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#575#576#0" expanded="true" />
-            <element signature="e#602#603#0" expanded="true" />
-            <element signature="e#724#725#0" expanded="true" />
-            <element signature="e#751#752#0" expanded="true" />
-            <element signature="e#805#806#0" expanded="true" />
-            <element signature="e#832#833#0" expanded="true" />
-            <element signature="e#1047#1048#0" expanded="true" />
-            <element signature="e#1074#1075#0" expanded="true" />
-            <element signature="e#2693#2694#0" expanded="true" />
-            <element signature="e#2721#2722#0" expanded="true" />
-            <element signature="e#2839#2840#0" expanded="true" />
-            <element signature="e#2867#2868#0" expanded="true" />
-            <element signature="e#2977#2978#0" expanded="true" />
-            <element signature="e#3005#3006#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FigurDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="40" lean-forward="true" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FigurFileDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-170">
-          <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Figur.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -739,16 +670,6 @@
           <folding>
             <element signature="e#221#222#0" expanded="true" />
             <element signature="e#245#246#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/KreisTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="39" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -798,38 +719,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ZeichnungTestMitMock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GraphicsStub.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Rechteck.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
+        <state relative-caret-position="357">
           <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="41" />
           <folding>
             <element signature="e#520#521#0" expanded="true" />
-            <element signature="e#600#601#0" expanded="true" />
+            <element signature="e#601#602#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Kreis.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
+        <state relative-caret-position="306">
           <caret line="19" column="72" selection-start-line="19" selection-start-column="72" selection-end-line="19" selection-end-column="72" />
           <folding>
             <element signature="e#416#417#0" expanded="true" />
-            <element signature="e#491#492#0" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -837,22 +744,74 @@
     <entry file="file://$PROJECT_DIR$/src/Linie.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
           <folding>
             <element signature="e#259#260#0" expanded="true" />
             <element signature="e#288#289#0" expanded="true" />
             <element signature="e#388#389#0" expanded="true" />
             <element signature="e#456#457#0" expanded="true" />
             <element signature="e#502#503#0" expanded="true" />
-            <element signature="e#580#581#0" expanded="true" />
+            <element signature="e#581#582#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FigurFileDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Desktop/mockito-all-1.10.19.jar!/org/mockito/Mockito.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1491">
+          <caret line="1161" column="24" selection-start-line="1161" selection-start-column="24" selection-end-line="1161" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/awt/Graphics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="103" column="22" selection-start-line="103" selection-start-column="22" selection-end-line="103" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZeichnungTestMitMock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FigurParserTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FigurDAOStub.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FigurDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="40" lean-forward="true" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FigurParser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="14">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#217#218#0" expanded="true" />
@@ -862,17 +821,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FigurDAOStub.java">
+    <entry file="file://$PROJECT_DIR$/src/ConcreteGraphics.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+          <folding>
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#575#576#0" expanded="true" />
+            <element signature="e#602#603#0" expanded="true" />
+            <element signature="e#724#725#0" expanded="true" />
+            <element signature="e#751#752#0" expanded="true" />
+            <element signature="e#805#806#0" expanded="true" />
+            <element signature="e#832#833#0" expanded="true" />
+            <element signature="e#1047#1048#0" expanded="true" />
+            <element signature="e#1074#1075#0" expanded="true" />
+            <element signature="e#2693#2694#0" expanded="true" />
+            <element signature="e#2721#2722#0" expanded="true" />
+            <element signature="e#2839#2840#0" expanded="true" />
+            <element signature="e#2867#2868#0" expanded="true" />
+            <element signature="e#2977#2978#0" expanded="true" />
+            <element signature="e#3005#3006#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FigurParserTest.java">
+    <entry file="file://$PROJECT_DIR$/src/GraphicsStub.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+        <state relative-caret-position="187">
+          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/KreisTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
